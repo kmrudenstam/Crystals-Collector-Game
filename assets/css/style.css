@@ -1,0 +1,50 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}    
+
+.col {
+	height: 150px;
+	margin:auto;
+    text-align: center;
+    color: dimgray;
+	line-height: 150px;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+h2, #totalWins, #totalLosses {
+    margin-top: 20px;
+    font-size: 28px;
+}
+
+#magicNumber, #score {
+    background-color: #282828;
+}
+
+#magicNumber, #score, #result {
+	height: 150px;
+	margin:auto;
+	text-align: center;
+	line-height: 150px;
+    border-radius: 5px;
+}
+
+#result {
+	color: #323232;
+	height: 75px;
+	margin-top: 30px;
+	border-radius: 5px;
+}
+
+#reset {
+	padding-right: 50px;
+    padding-left: 50px;
+    margin-top: 60px;
+    text-align: center;
+    background-color: dimgray;
+	border-color: rgb(92, 91, 91);
+	color: #ffffff;
+	letter-spacing: 1px;
+}
+
